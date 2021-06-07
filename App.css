@@ -1,0 +1,47 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+.Navbar{
+ padding: 10px;
+
+ background-color: #3399ff;
+ height: 50px;
+ display: flex;
+ align-items: center;
+ text-align: center;
+ font-size: 25px;
+ color: white;
+}
+
+.Footer{
+  background-color: #000d1a;
+  padding: 20px;
+  width:95%;
+  justify-content: center;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.Footer_txt{
+  font-size: 25px;
+  flex-wrap: wrap;
+}
+
+.Card{
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  background-color: teal;
+  justify-content: center;
+  min-height: 250px;
+  float: left;
+  margin: 20px;
+  width: 300px;
+}
+.card-title{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
